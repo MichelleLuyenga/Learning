@@ -1,7 +1,3 @@
----
-layout: default
----
-
 Stanford
 Pasadena
 Berkeley 
@@ -11,3 +7,5 @@ San Jose
 Sacramento 
 Los Angeles 
 San Diego 
+San Mateo
+San Carlos 
